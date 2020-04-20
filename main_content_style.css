@@ -1,0 +1,10 @@
+/*
+Style used to design the body
+*/
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: black;
+    background-attachment: fixed;
+}
